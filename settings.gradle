@@ -1,1 +1,1 @@
-include ':app', ':mlkit-scanner'
+include ':mlkit-scanner'
