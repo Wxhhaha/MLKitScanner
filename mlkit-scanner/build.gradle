@@ -9,12 +9,6 @@ android {
     compileSdkVersion 35
     defaultConfig {
         minSdkVersion 23
-        versionCode 5
-        versionName "1.0.5"
-
-        // 添加这些配置确保生成构件
-        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
-        consumerProguardFiles "consumer-rules.pro"
     }
 
     compileOptions {
